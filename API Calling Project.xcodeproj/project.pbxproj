@@ -11,6 +11,7 @@
 		3FA1BD4D27B428BC002DA75D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA1BD4C27B428BC002DA75D /* ContentView.swift */; };
 		3FA1BD4F27B428D5002DA75D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FA1BD4E27B428D5002DA75D /* Assets.xcassets */; };
 		3FA1BD5227B428D5002DA75D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FA1BD5127B428D5002DA75D /* Preview Assets.xcassets */; };
+		3FA1BD5A27B6C65B002DA75D /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA1BD5927B6C65B002DA75D /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FA1BD4E27B428D5002DA75D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FA1BD5127B428D5002DA75D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FA1BD5327B428D5002DA75D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FA1BD5927B6C65B002DA75D /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3FA1BD4C27B428BC002DA75D /* ContentView.swift */,
 				3FA1BD4E27B428D5002DA75D /* Assets.xcassets */,
 				3FA1BD5327B428D5002DA75D /* Info.plist */,
+				3FA1BD5927B6C65B002DA75D /* SwiftyJSON.swift */,
 				3FA1BD5027B428D5002DA75D /* Preview Content */,
 			);
 			path = "API Calling Project";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FA1BD5A27B6C65B002DA75D /* SwiftyJSON.swift in Sources */,
 				3FA1BD4D27B428BC002DA75D /* ContentView.swift in Sources */,
 				3FA1BD4B27B428BC002DA75D /* API_Calling_ProjectApp.swift in Sources */,
 			);
